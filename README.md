@@ -1,5 +1,64 @@
-# 💫 About Me:
-## 🧑‍💻 About Me<br><br>- 💻 **Executive Full Stack Developer** at Digital Gourmet (Dec 2024–Present), building<br>  production-grade MERN applications with secure REST APIs and responsive UIs, plus<br>  React Native mobile apps with real-time features and integrated payments.<br>- 🏢 Started my professional journey as an **Intern Full Stack Developer** at Probey<br>  Services, building and styling admin dashboards and client-facing UIs in React.js.<br>- ⚙️ While I ship across the stack, my strength is **backend engineering** — designing<br>  APIs and services with Node.js, Express.js, and Fastify, backed by Redis for caching<br>  and RabbitMQ for messaging/queues, with WebSockets for real-time features.<br>- 🩺 Built **Pro Health**, a telehealth platform: doctor onboarding, appointment<br>  scheduling, patient consultations, payment gateway integration, and real-time<br>  audio/video calls, with an admin dashboard for managing users, doctors, and schedules.<br>- 🏆 Built **Aikyam Sport Club**, a sports-club management system covering memberships,<br>  ground bookings, event scheduling, team/player roles, and role-based access control<br>  for admins, coaches, and members.<br>- 🎓 Built a **Coaching Management System** to manage batches, schedules, attendance,<br>  and faculty assignments, using a scalable React Context–based frontend architecture.<br>- 🌿 Developed **Psolvi**, a preventive wellness app on the Play Store — secure<br>  audio/video consultations, mood & habit tracking, podcasts, wellness games, an<br>  e-commerce module for wellness products, and clinic management, with backend APIs<br>  optimized for real-time interactions.<br>- 🚀 Deploy and operate my own infrastructure: VPS hosting, Nginx, PM2, Cloudflare, SSH,<br>  Vercel/Railway, with CI/CD via GitHub Actions and Jenkins.<br>- 🤖 Use AI-assisted development tools daily (Claude Code, Cursor, OpenCode) to move<br>  faster without cutting corners on code quality.<br>- 🎓 B.Tech in Computer Science & Engineering, Guru Gobind Singh Indraprastha<br>  University (2020–2024).<br>- 📍 South Delhi, India.
+## 🧑‍💻 About Me
+
+<img align="right" width="150" src="https://raw.githubusercontent.com/Chauhan2023/Chauhan2023/main/assets/coding.gif" />
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=false&vCenter=true&width=560&lines=Backend-focused+Full+Stack+Engineer;Node.js+%7C+Express+%7C+Fastify+%7C+Redis+%7C+RabbitMQ;Shipping+healthcare%2C+edtech+%26+sports-tech+platforms;Powered+by+Claude+Code+%2B+Cursor" alt="Typing SVG" />
+</p>
+
+<table>
+  <tr>
+    <td>🎯 <b>Role</b></td>
+    <td>Executive Full Stack Developer @ Digital Gourmet</td>
+  </tr>
+  <tr>
+    <td>🧠 <b>Core Strength</b></td>
+    <td>Backend architecture — Node.js / Express / Fastify / Redis / RabbitMQ</td>
+  </tr>
+  <tr>
+    <td>🩺 <b>Domains Shipped</b></td>
+    <td>Telehealth, EdTech, Sports-tech, Wellness</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Education</b></td>
+    <td>B.Tech CSE, GGSIPU (2020–2024)</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Base</b></td>
+    <td>South Delhi, India</td>
+  </tr>
+</table>
+
+<br/>
+
+### ⚙️ What I Build
+
+> Full-stack apps where the backend does the heavy lifting — secure APIs, real-time
+> systems, and infra that doesn't fall over in production.
+
+- 🩺 **Pro Health** — telehealth platform with doctor onboarding, scheduling, payments,
+  and real-time audio/video consultations, plus an admin dashboard for the whole ops flow.
+- 🏆 **Aikyam Sport Club** — sports-club OS: memberships, ground bookings, event
+  scheduling, and role-based access across admins, coaches, and members.
+- 🎓 **Coaching Management System** — batch, schedule, attendance, and faculty
+  management on a scalable React Context–driven frontend.
+- 🌿 **Psolvi** (Play Store) — wellness app with video consults, habit tracking,
+  wellness commerce, and clinic management, backed by real-time-optimized APIs.
+
+### 🛠️ How I Work
+
+- Started as an intern building admin dashboards and client UIs at Probey Services —
+  now own full-stack delivery end-to-end at Digital Gourmet.
+- Deploy and run my own infra: VPS, Nginx, PM2, Cloudflare, CI/CD via GitHub Actions
+  and Jenkins.
+- Build faster without cutting corners using AI-assisted tooling — Claude Code,
+  Cursor, OpenCode — baked into daily workflow.
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Building-Scalable%20Backend%20Systems-00F0FF?style=for-the-badge&labelColor=0d1117" />
+</p>
 
 
 ## 🌐 Socials:
