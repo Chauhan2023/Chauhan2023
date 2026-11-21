@@ -114,19 +114,19 @@ Doctor & patient workflows with real-time consultations, scheduling, payments an
 
 <td width="50%" valign="top">
 
-### 🏆 Aikyam Sport Club
+### 🏋️ Gym CRM & ERP
 
-**Sports management platform**
+**Gym & fitness management platform**
 
-A digital operating system for memberships, bookings, events and role-based club management.
+End-to-end gym operations system covering memberships, billing, trainer scheduling, attendance, lead CRM and business analytics.
 
 **Built with**
 
-`React` `Node.js` `MySQL` `REST APIs`
+`React` `Node.js` `MySQL` `Redis` `REST APIs`
 
 **Focus**
 
-`RBAC` · `Bookings` · `Operations`
+`CRM` · `Billing` · `Operations`
 
 </td>
 </tr>
@@ -134,19 +134,19 @@ A digital operating system for memberships, bookings, events and role-based club
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Coaching Management System
+### 🏫 School CRM & ERP
 
-**Education management platform**
+**School management platform**
 
-Managing students, batches, faculty, attendance, schedules and fee workflows.
+Complete school ERP for admissions, students, staff, attendance, fees, exams, transport and reporting with role-based access.
 
 **Built with**
 
-`React` `Node.js` `PostgreSQL`
+`React` `Node.js` `PostgreSQL` `Redis` `REST APIs`
 
 **Focus**
 
-`EdTech` · `Dashboards` · `Management`
+`ERP` · `RBAC` · `Automation`
 
 </td>
 
