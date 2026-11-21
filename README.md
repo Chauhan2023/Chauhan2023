@@ -14,8 +14,14 @@
 <a href="https://linkedin.com/in/contact-rohit">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://www.instagram.com/iam_chauhan2001/">
+<img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://x.com/RC01_official">
+<img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 <a href="mailto:rohitchauhan19780@gmail.com">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -325,7 +331,7 @@ Architecture → Implementation → Review → Testing → Production
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/iam_chauhan2001">
+<a href="https://www.instagram.com/iam_chauhan2001/">
 <img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
